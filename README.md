@@ -6,9 +6,9 @@ In this project, I will analyze the Red Wine Data and try to understand which va
 
 1. redWineAnalysis.html - The Final project report with codes and analysis
 
-2. redWineAnalysis.md - The viewable markdown file with plots.
+2. redWineAnalysis.md - The viewable markdown file with plots and without codes.
 
-3. redWineAnalysis.rmd - The viewable R markdown file without plots.
+3. redWineAnalysis.rmd - The viewable R markdown file with codes and without plots.
 
 4. references.txt - List of references.
 
